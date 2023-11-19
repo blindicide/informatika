@@ -1,0 +1,15 @@
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/bin/Debug/net7.0/LabOld
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/bin/Debug/net7.0/LabOld.deps.json
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/bin/Debug/net7.0/LabOld.runtimeconfig.json
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/bin/Debug/net7.0/LabOld.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/bin/Debug/net7.0/LabOld.pdb
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.csproj.AssemblyReference.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.GeneratedMSBuildEditorConfig.editorconfig
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.AssemblyInfoInputs.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.AssemblyInfo.cs
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.csproj.CoreCompileInputs.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/refint/LabOld.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.pdb
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/LabOld.genruntimeconfig.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabOld/obj/Debug/net7.0/ref/LabOld.dll
