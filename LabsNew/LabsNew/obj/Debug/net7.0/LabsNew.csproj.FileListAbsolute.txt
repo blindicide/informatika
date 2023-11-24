@@ -1,0 +1,15 @@
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/bin/Debug/net7.0/LabsNew
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/bin/Debug/net7.0/LabsNew.deps.json
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/bin/Debug/net7.0/LabsNew.runtimeconfig.json
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/bin/Debug/net7.0/LabsNew.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/bin/Debug/net7.0/LabsNew.pdb
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.csproj.AssemblyReference.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.GeneratedMSBuildEditorConfig.editorconfig
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.AssemblyInfoInputs.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.AssemblyInfo.cs
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.csproj.CoreCompileInputs.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/refint/LabsNew.dll
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.pdb
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/LabsNew.genruntimeconfig.cache
+/home/s94-0/Documents/Учёба/ProgR/informatika/LabsNew/LabsNew/obj/Debug/net7.0/ref/LabsNew.dll
