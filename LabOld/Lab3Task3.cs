@@ -1,6 +1,6 @@
 ﻿using System;
 class Lab3Task3 {
-  static void Main() {
+  static void Main1() {
         Random rnd = new Random();
         int linelen;
         int[][] matrix = new int[5][];
